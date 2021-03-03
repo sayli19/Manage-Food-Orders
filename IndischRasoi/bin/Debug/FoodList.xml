@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<ArrayOfFoodList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FoodList>
+    <foodID>1</foodID>
+    <foodName>Capsicum Rice</foodName>
+    <foodDescription>Some Description</foodDescription>
+    <foodTotalQty>5</foodTotalQty>
+    <foodAvlQty>5</foodAvlQty>
+    <foodPrice>5</foodPrice>
+  </FoodList>
+  <FoodList>
+    <foodID>2</foodID>
+    <foodName>Vegetable Pulav</foodName>
+    <foodDescription>Some Description</foodDescription>
+    <foodTotalQty>5</foodTotalQty>
+    <foodAvlQty>5</foodAvlQty>
+    <foodPrice>5</foodPrice>
+  </FoodList>
+  <FoodList>
+    <foodID>3</foodID>
+    <foodName>Sambhar Rice</foodName>
+    <foodDescription>Some Description</foodDescription>
+    <foodTotalQty>5</foodTotalQty>
+    <foodAvlQty>5</foodAvlQty>
+    <foodPrice>5</foodPrice>
+  </FoodList>
+  <FoodList>
+    <foodID>4</foodID>
+    <foodName>Rasam and Rice</foodName>
+    <foodDescription>Some Description</foodDescription>
+    <foodTotalQty>5</foodTotalQty>
+    <foodAvlQty>5</foodAvlQty>
+    <foodPrice>5</foodPrice>
+  </FoodList>
+  <FoodList>
+    <foodID>5</foodID>
+    <foodName>Chicken Biryani</foodName>
+    <foodDescription>Some Description</foodDescription>
+    <foodTotalQty>5</foodTotalQty>
+    <foodAvlQty>5</foodAvlQty>
+    <foodPrice>5</foodPrice>
+  </FoodList>
+  <FoodList>
+    <foodID>6</foodID>
+    <foodName>Egg Biryani</foodName>
+    <foodDescription>Some Description</foodDescription>
+    <foodTotalQty>5</foodTotalQty>
+    <foodAvlQty>5</foodAvlQty>
+    <foodPrice>5</foodPrice>
+  </FoodList>
+  <FoodList>
+    <foodID>7</foodID>
+    <foodName>Vegetable Fried Rice</foodName>
+    <foodDescription>Some Description</foodDescription>
+    <foodTotalQty>5</foodTotalQty>
+    <foodAvlQty>5</foodAvlQty>
+    <foodPrice>5</foodPrice>
+  </FoodList>
+  <FoodList>
+    <foodID>8</foodID>
+    <foodName>Chicken Fried Rice</foodName>
+    <foodDescription>Some Description</foodDescription>
+    <foodTotalQty>5</foodTotalQty>
+    <foodAvlQty>5</foodAvlQty>
+    <foodPrice>5</foodPrice>
+  </FoodList>
+  <FoodList>
+    <foodID>9</foodID>
+    <foodName>Paneer Biryani</foodName>
+    <foodDescription>Some Description</foodDescription>
+    <foodTotalQty>5</foodTotalQty>
+    <foodAvlQty>5</foodAvlQty>
+    <foodPrice>5</foodPrice>
+  </FoodList>
+  <FoodList>
+    <foodID>10</foodID>
+    <foodName>Wada Sambhar</foodName>
+    <foodDescription>Some Description</foodDescription>
+    <foodTotalQty>5</foodTotalQty>
+    <foodAvlQty>5</foodAvlQty>
+    <foodPrice>5</foodPrice>
+  </FoodList>
+  <FoodList>
+    <foodID>11</foodID>
+    <foodName>Jeera Rice</foodName>
+    <foodDescription>Some Description</foodDescription>
+    <foodTotalQty>5</foodTotalQty>
+    <foodAvlQty>5</foodAvlQty>
+    <foodPrice>5</foodPrice>
+  </FoodList>
+  <FoodList>
+    <foodID>12</foodID>
+    <foodName>Puranpoli</foodName>
+    <foodDescription>Some Description</foodDescription>
+    <foodTotalQty>5</foodTotalQty>
+    <foodAvlQty>5</foodAvlQty>
+    <foodPrice>5</foodPrice>
+  </FoodList>
+  <FoodList>
+    <foodID>13</foodID>
+    <foodName>Bissibelebath</foodName>
+    <foodDescription>Some Description</foodDescription>
+    <foodTotalQty>5</foodTotalQty>
+    <foodAvlQty>5</foodAvlQty>
+    <foodPrice>5</foodPrice>
+  </FoodList>
+  <FoodList>
+    <foodID>14</foodID>
+    <foodName>Curd Rice</foodName>
+    <foodDescription>Some Description</foodDescription>
+    <foodTotalQty>5</foodTotalQty>
+    <foodAvlQty>5</foodAvlQty>
+    <foodPrice>5</foodPrice>
+  </FoodList>
+  <FoodList>
+    <foodID>15</foodID>
+    <foodName>Dal tadka</foodName>
+    <foodDescription>Some Description</foodDescription>
+    <foodTotalQty>5</foodTotalQty>
+    <foodAvlQty>5</foodAvlQty>
+    <foodPrice>5</foodPrice>
+  </FoodList>
+  <FoodList>
+    <foodID>16</foodID>
+    <foodName>Palak Paneer</foodName>
+    <foodDescription>Some Description</foodDescription>
+    <foodTotalQty>5</foodTotalQty>
+    <foodAvlQty>5</foodAvlQty>
+    <foodPrice>5</foodPrice>
+  </FoodList>
+  <FoodList>
+    <foodID>17</foodID>
+    <foodName>Palak Tadka Rice</foodName>
+    <foodDescription>Some Description</foodDescription>
+    <foodTotalQty>5</foodTotalQty>
+    <foodAvlQty>5</foodAvlQty>
+    <foodPrice>5</foodPrice>
+  </FoodList>
+  <FoodList>
+    <foodID>18</foodID>
+    <foodName>Mushroom Pulav</foodName>
+    <foodDescription>Some Description</foodDescription>
+    <foodTotalQty>5</foodTotalQty>
+    <foodAvlQty>5</foodAvlQty>
+    <foodPrice>5</foodPrice>
+  </FoodList>
+  <FoodList>
+    <foodID>19</foodID>
+    <foodName>Watana Bhaat</foodName>
+    <foodDescription>Some Description</foodDescription>
+    <foodTotalQty>5</foodTotalQty>
+    <foodAvlQty>5</foodAvlQty>
+    <foodPrice>5</foodPrice>
+  </FoodList>
+  <FoodList>
+    <foodID>20</foodID>
+    <foodName>Triple Schezwan Rice</foodName>
+    <foodDescription>Some Description</foodDescription>
+    <foodTotalQty>5</foodTotalQty>
+    <foodAvlQty>5</foodAvlQty>
+    <foodPrice>5</foodPrice>
+  </FoodList>
+</ArrayOfFoodList>

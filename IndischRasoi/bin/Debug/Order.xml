@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfAddOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AddOrder>
+    <foodId>3</foodId>
+    <foodName>Sambhar Rice</foodName>
+    <foodPrice>5</foodPrice>
+  </AddOrder>
+  <AddOrder>
+    <foodId>3</foodId>
+    <foodName>Sambhar Rice</foodName>
+    <foodPrice>5</foodPrice>
+  </AddOrder>
+</ArrayOfAddOrder>

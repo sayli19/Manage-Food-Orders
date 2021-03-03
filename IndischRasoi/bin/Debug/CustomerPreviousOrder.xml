@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfCustomerPreviousOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CustomerPreviousOrder>
+		<customerID>1</customerID>
+		<foodID>1</foodID>
+		<orderDate>01.02.2020</orderDate>
+		<foodItem>Capsicum Rice</foodItem>
+		<amountDue>5 €</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>1</customerID>
+		<foodID>2</foodID>
+		<orderDate>02.03.2020</orderDate>
+		<foodItem>Vegetable Pulav</foodItem>
+		<amountDue>5 €</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>1</customerID>
+		<foodID>3</foodID>
+		<orderDate>03.02.2020</orderDate>
+		<foodItem>Sambhar Rice</foodItem>
+		<amountDue>5 €</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>2</customerID>
+		<foodID>4</foodID>
+		<orderDate>04.03.2020</orderDate>
+		<foodItem>Rasam and Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>2</customerID>
+		<foodID>5</foodID>
+		<orderDate>04.03.2020</orderDate>
+		<foodItem>Chicken Biryani</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>2</customerID>
+		<foodID>6</foodID>
+		<orderDate>15.03.2020</orderDate>
+		<foodItem>Egg Biryani</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>3</customerID>
+		<foodID>7</foodID>
+		<orderDate>16.03.2020</orderDate>
+		<foodItem>Vegetable Fried Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>3</customerID>
+		<foodID>8</foodID>
+		<orderDate>18.03.2020</orderDate>
+		<foodItem>Chicken Fried Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>3</customerID>
+		<foodID>9</foodID>
+		<orderDate>02.03.2020</orderDate>
+		<foodItem>Paneer Biryani</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>4</customerID>
+		<foodID>10</foodID>
+		<orderDate>22.03.2020</orderDate>
+		<foodItem>Wada Sambhar</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>5</customerID>
+		<foodID>11</foodID>
+		<orderDate>25.03.2020</orderDate>
+		<foodItem>Jeera Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>3</customerID>
+		<foodID>12</foodID>
+		<orderDate>28.03.2020</orderDate>
+		<foodItem>Puranpoli</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>6</customerID>
+		<foodID>13</foodID>
+		<orderDate>19.03.2020</orderDate>
+		<foodItem>Bissibelebath</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>6</customerID>
+		<foodID>14</foodID>
+		<orderDate>01.02.2020</orderDate>
+		<foodItem>Curd Rice</foodItem>
+		<amountDue>5 €</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>6</customerID>
+		<foodID>15</foodID>
+		<orderDate>29.02.2020</orderDate>
+		<foodItem>Dal tadka</foodItem>
+		<amountDue>5 €</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>5</customerID>
+		<foodID>16</foodID>
+		<orderDate>03.02.2020</orderDate>
+		<foodItem>Palak Paneer</foodItem>
+		<amountDue>5 €</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>7</customerID>
+		<foodID>17</foodID>
+		<orderDate>24.03.2020</orderDate>
+		<foodItem>Palak Tadka Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>7</customerID>
+		<foodID>18</foodID>
+		<orderDate>25.03.2020</orderDate>
+		<foodItem>Mushroom Pulav</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>9</customerID>
+		<foodID>19</foodID>
+		<orderDate>26.03.2020</orderDate>
+		<foodItem>Watana Bhaat</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>8</customerID>
+		<foodID>20</foodID>
+		<orderDate>29.03.2020</orderDate>
+		<foodItem>Triple Schezwan Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>7</customerID>
+		<foodID>1</foodID>
+		<orderDate>29.03.2020</orderDate>
+		<foodItem>Capsicum Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>5</customerID>
+		<foodID>2</foodID>
+		<orderDate>10.03.2020</orderDate>
+		<foodItem>Vegetable Pulav</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>8</customerID>
+		<foodID>3</foodID>
+		<orderDate>18.03.2020</orderDate>
+		<foodItem>Sambhar Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>8</customerID>
+		<foodID>4</foodID>
+		<orderDate>12.03.2020</orderDate>
+		<foodItem>Rasam and Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>9</customerID>
+		<foodID>5</foodID>
+		<orderDate>16.03.2020</orderDate>
+		<foodItem>Chicken Biryani</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>7</customerID>
+		<foodID>6</foodID>
+		<orderDate>01.02.2020</orderDate>
+		<foodItem>Egg Biryani</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>7</customerID>
+		<foodID>7</foodID>
+		<orderDate>02.03.2020</orderDate>
+		<foodItem>Vegetable Fried Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>9</customerID>
+		<foodID>8</foodID>
+		<orderDate>03.02.2020</orderDate>
+		<foodItem>Chicken Fried Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>10</customerID>
+		<foodID>9</foodID>
+		<orderDate>04.03.2020</orderDate>
+		<foodItem>Paneer Biryani</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>11</customerID>
+		<foodID>10</foodID>
+		<orderDate>04.03.2020</orderDate>
+		<foodItem>Wada Sambhar</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>12</customerID>
+		<foodID>11</foodID>
+		<orderDate>15.03.2020</orderDate>
+		<foodItem>Jeera Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>13</customerID>
+		<foodID>12</foodID>
+		<orderDate>16.03.2020</orderDate>
+		<foodItem>Puranpoli</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>14</customerID>
+		<foodID>13</foodID>
+		<orderDate>18.03.2020</orderDate>
+		<foodItem>Bissibelebath</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>15</customerID>
+		<foodID>14</foodID>
+		<orderDate>02.03.2020</orderDate>
+		<foodItem>Curd Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>16</customerID>
+		<foodID>15</foodID>
+		<orderDate>22.03.2020</orderDate>
+		<foodItem>Dal tadka</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>17</customerID>
+		<foodID>16</foodID>
+		<orderDate>25.03.2020</orderDate>
+		<foodItem>Palak Paneer</foodItem>
+		<amountDue>5 €</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>18</customerID>
+		<foodID>17</foodID>
+		<orderDate>28.03.2020</orderDate>
+		<foodItem>Palak Tadka Rice</foodItem>
+		<amountDue>5 €</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>19</customerID>
+		<foodID>18</foodID>
+		<orderDate>19.03.2020</orderDate>
+		<foodItem>Mushroom Pulav</foodItem>
+		<amountDue>5 €</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>20</customerID>
+		<foodID>19</foodID>
+		<orderDate>01.02.2020</orderDate>
+		<foodItem>Watana Bhaat</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>21</customerID>
+		<foodID>20</foodID>
+		<orderDate>29.02.2020</orderDate>
+		<foodItem>Triple Schezwan Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>22</customerID>
+		<foodID>1</foodID>
+		<orderDate>03.02.2020</orderDate>
+		<foodItem>Capsicum Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>23</customerID>
+		<foodID>2</foodID>
+		<orderDate>24.03.2020</orderDate>
+		<foodItem>Vegetable Pulav</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>24</customerID>
+		<foodID>3</foodID>
+		<orderDate>25.03.2020</orderDate>
+		<foodItem>Sambhar Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>25</customerID>
+		<foodID>4</foodID>
+		<orderDate>26.03.2020</orderDate>
+		<foodItem>Rasam and Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>26</customerID>
+		<foodID>5</foodID>
+		<orderDate>29.03.2020</orderDate>
+		<foodItem>Chicken Biryani</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>27</customerID>
+		<foodID>6</foodID>
+		<orderDate>29.03.2020</orderDate>
+		<foodItem>Egg Biryani</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>28</customerID>
+		<foodID>7</foodID>
+		<orderDate>10.03.2020</orderDate>
+		<foodItem>Vegetable Fried Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>29</customerID>
+		<foodID>8</foodID>
+		<orderDate>18.03.2020</orderDate>
+		<foodItem>Chicken Fried Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>30</customerID>
+		<foodID>9</foodID>
+		<orderDate>12.03.2020</orderDate>
+		<foodItem>Paneer Biryani</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>21</customerID>
+		<foodID>10</foodID>
+		<orderDate>16.03.2020</orderDate>
+		<foodItem>Wada Sambhar</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>10</customerID>
+		<foodID>11</foodID>
+		<orderDate>01.02.2020</orderDate>
+		<foodItem>Jeera Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>10</customerID>
+		<foodID>12</foodID>
+		<orderDate>02.03.2020</orderDate>
+		<foodItem>Puranpoli</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>11</customerID>
+		<foodID>13</foodID>
+		<orderDate>03.02.2020</orderDate>
+		<foodItem>Bissibelebath</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>11</customerID>
+		<foodID>14</foodID>
+		<orderDate>04.03.2020</orderDate>
+		<foodItem>Curd Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>12</customerID>
+		<foodID>15</foodID>
+		<orderDate>04.03.2020</orderDate>
+		<foodItem>Dal tadka</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>12</customerID>
+		<foodID>16</foodID>
+		<orderDate>15.03.2020</orderDate>
+		<foodItem>Palak Paneer</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>13</customerID>
+		<foodID>17</foodID>
+		<orderDate>16.03.2020</orderDate>
+		<foodItem>Palak Tadka Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>14</customerID>
+		<foodID>18</foodID>
+		<orderDate>18.03.2020</orderDate>
+		<foodItem>Mushroom Pulav</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>14</customerID>
+		<foodID>19</foodID>
+		<orderDate>02.03.2020</orderDate>
+		<foodItem>Watana Bhaat</foodItem>
+		<amountDue>5 €</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>14</customerID>
+		<foodID>20</foodID>
+		<orderDate>22.03.2020</orderDate>
+		<foodItem>Triple Schezwan Rice</foodItem>
+		<amountDue>5 €</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>15</customerID>
+		<foodID>1</foodID>
+		<orderDate>25.03.2020</orderDate>
+		<foodItem>Capsicum Rice</foodItem>
+		<amountDue>5 €</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>15</customerID>
+		<foodID>2</foodID>
+		<orderDate>28.03.2020</orderDate>
+		<foodItem>Vegetable Pulav</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>15</customerID>
+		<foodID>3</foodID>
+		<orderDate>19.03.2020</orderDate>
+		<foodItem>Sambhar Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>26</customerID>
+		<foodID>4</foodID>
+		<orderDate>01.02.2020</orderDate>
+		<foodItem>Rasam and Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>26</customerID>
+		<foodID>5</foodID>
+		<orderDate>29.02.2020</orderDate>
+		<foodItem>Chicken Biryani</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>16</customerID>
+		<foodID>6</foodID>
+		<orderDate>03.02.2020</orderDate>
+		<foodItem>Egg Biryani</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>17</customerID>
+		<foodID>7</foodID>
+		<orderDate>24.03.2020</orderDate>
+		<foodItem>Vegetable Fried Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>17</customerID>
+		<foodID>8</foodID>
+		<orderDate>25.03.2020</orderDate>
+		<foodItem>Chicken Fried Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>18</customerID>
+		<foodID>9</foodID>
+		<orderDate>26.03.2020</orderDate>
+		<foodItem>Paneer Biryani</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>17</customerID>
+		<foodID>10</foodID>
+		<orderDate>29.03.2020</orderDate>
+		<foodItem>Wada Sambhar</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>18</customerID>
+		<foodID>11</foodID>
+		<orderDate>29.03.2020</orderDate>
+		<foodItem>Jeera Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>19</customerID>
+		<foodID>12</foodID>
+		<orderDate>10.03.2020</orderDate>
+		<foodItem>Puranpoli</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>19</customerID>
+		<foodID>13</foodID>
+		<orderDate>18.03.2020</orderDate>
+		<foodItem>Bissibelebath</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>19</customerID>
+		<foodID>14</foodID>
+		<orderDate>12.03.2020</orderDate>
+		<foodItem>Curd Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>20</customerID>
+		<foodID>15</foodID>
+		<orderDate>16.03.2020</orderDate>
+		<foodItem>Dal tadka</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>22</customerID>
+		<foodID>16</foodID>
+		<orderDate>01.02.2020</orderDate>
+		<foodItem>Palak Paneer</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>22</customerID>
+		<foodID>17</foodID>
+		<orderDate>02.03.2020</orderDate>
+		<foodItem>Palak Tadka Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>20</customerID>
+		<foodID>18</foodID>
+		<orderDate>03.02.2020</orderDate>
+		<foodItem>Mushroom Pulav</foodItem>
+		<amountDue>5 €</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>21</customerID>
+		<foodID>19</foodID>
+		<orderDate>04.03.2020</orderDate>
+		<foodItem>Watana Bhaat</foodItem>
+		<amountDue>5 €</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>21</customerID>
+		<foodID>20</foodID>
+		<orderDate>04.03.2020</orderDate>
+		<foodItem>Triple Schezwan Rice</foodItem>
+		<amountDue>5 €</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>21</customerID>
+		<foodID>1</foodID>
+		<orderDate>15.03.2020</orderDate>
+		<foodItem>Capsicum Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>24</customerID>
+		<foodID>2</foodID>
+		<orderDate>16.03.2020</orderDate>
+		<foodItem>Vegetable Pulav</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>24</customerID>
+		<foodID>3</foodID>
+		<orderDate>18.03.2020</orderDate>
+		<foodItem>Sambhar Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>24</customerID>
+		<foodID>4</foodID>
+		<orderDate>02.03.2020</orderDate>
+		<foodItem>Rasam and Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>2</customerID>
+		<foodID>5</foodID>
+		<orderDate>22.03.2020</orderDate>
+		<foodItem>Chicken Biryani</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>24</customerID>
+		<foodID>6</foodID>
+		<orderDate>25.03.2020</orderDate>
+		<foodItem>Egg Biryani</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>25</customerID>
+		<foodID>7</foodID>
+		<orderDate>28.03.2020</orderDate>
+		<foodItem>Vegetable Fried Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>25</customerID>
+		<foodID>8</foodID>
+		<orderDate>19.03.2020</orderDate>
+		<foodItem>Chicken Fried Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>25</customerID>
+		<foodID>9</foodID>
+		<orderDate>01.02.2020</orderDate>
+		<foodItem>Paneer Biryani</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>25</customerID>
+		<foodID>10</foodID>
+		<orderDate>29.02.2020</orderDate>
+		<foodItem>Wada Sambhar</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>26</customerID>
+		<foodID>11</foodID>
+		<orderDate>03.02.2020</orderDate>
+		<foodItem>Jeera Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>26</customerID>
+		<foodID>12</foodID>
+		<orderDate>24.03.2020</orderDate>
+		<foodItem>Puranpoli</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>27</customerID>
+		<foodID>13</foodID>
+		<orderDate>25.03.2020</orderDate>
+		<foodItem>Bissibelebath</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>27</customerID>
+		<foodID>14</foodID>
+		<orderDate>26.03.2020</orderDate>
+		<foodItem>Curd Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>27</customerID>
+		<foodID>15</foodID>
+		<orderDate>29.03.2020</orderDate>
+		<foodItem>Dal tadka</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>27</customerID>
+		<foodID>16</foodID>
+		<orderDate>29.03.2020</orderDate>
+		<foodItem>Palak Paneer</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>27</customerID>
+		<foodID>17</foodID>
+		<orderDate>10.03.2020</orderDate>
+		<foodItem>Palak Tadka Rice</foodItem>
+		<amountDue>5 €</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>29</customerID>
+		<foodID>18</foodID>
+		<orderDate>18.03.2020</orderDate>
+		<foodItem>Mushroom Pulav</foodItem>
+		<amountDue>5 €</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>29</customerID>
+		<foodID>19</foodID>
+		<orderDate>12.03.2020</orderDate>
+		<foodItem>Watana Bhaat</foodItem>
+		<amountDue>5 €</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>30</customerID>
+		<foodID>20</foodID>
+		<orderDate>16.03.2020</orderDate>
+		<foodItem>Triple Schezwan Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>30</customerID>
+		<foodID>1</foodID>
+		<orderDate>02.03.2020</orderDate>
+		<foodItem>Capsicum Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>21</customerID>
+		<foodID>2</foodID>
+		<orderDate>29.03.2020</orderDate>
+		<foodItem>Vegetable Pulav</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>24</customerID>
+		<foodID>3</foodID>
+		<orderDate>29.03.2020</orderDate>
+		<foodItem>Sambhar Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>2</customerID>
+		<foodID>4</foodID>
+		<orderDate>10.03.2020</orderDate>
+		<foodItem>Rasam and Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>24</customerID>
+		<foodID>5</foodID>
+		<orderDate>18.03.2020</orderDate>
+		<foodItem>Chicken Biryani</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>25</customerID>
+		<foodID>6</foodID>
+		<orderDate>12.03.2020</orderDate>
+		<foodItem>Egg Biryani</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>25</customerID>
+		<foodID>7</foodID>
+		<orderDate>16.03.2020</orderDate>
+		<foodItem>Vegetable Fried Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>25</customerID>
+		<foodID>8</foodID>
+		<orderDate>02.03.2020</orderDate>
+		<foodItem>Chicken Fried Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>25</customerID>
+		<foodID>9</foodID>
+		<orderDate>18.03.2020</orderDate>
+		<foodItem>Paneer Biryani</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>26</customerID>
+		<foodID>10</foodID>
+		<orderDate>16.03.2020</orderDate>
+		<foodItem>Wada Sambhar</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+	<CustomerPreviousOrder>
+		<customerID>26</customerID>
+		<foodID>11</foodID>
+		<orderDate>12.03.2020</orderDate>
+		<foodItem>Jeera Rice</foodItem>
+		<amountDue>Paid</amountDue>
+	</CustomerPreviousOrder>
+</ArrayOfCustomerPreviousOrder>

@@ -1,0 +1,333 @@
+<?xml version="1.0"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <customerID>1</customerID>
+    <firstName>Kimi</firstName>
+    <lastName>Taehyung</lastName>
+    <streetName>Elizabeth str 9</streetName>
+    <houseNumber>5</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>5</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>2</customerID>
+    <firstName>Park</firstName>
+    <lastName>Jimin</lastName>
+    <streetName>Elizabeth str 9</streetName>
+    <houseNumber>25</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>5</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>3</customerID>
+    <firstName>Kim</firstName>
+    <lastName>Namjoon</lastName>
+    <streetName>bismarck 10</streetName>
+    <houseNumber>3</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>5</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>4</customerID>
+    <firstName>Jeon</firstName>
+    <lastName>Jungkook</lastName>
+    <streetName>hauptstrs 6</streetName>
+    <houseNumber>45</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>234</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>5</customerID>
+    <firstName>Seok</firstName>
+    <lastName>Jin</lastName>
+    <streetName>Maria proste3</streetName>
+    <houseNumber>56</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>4</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>6</customerID>
+    <firstName>Min</firstName>
+    <lastName>Suga</lastName>
+    <streetName>kaiser str 7</streetName>
+    <houseNumber>23</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>4</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>7</customerID>
+    <firstName>Jung</firstName>
+    <lastName>Hosoek</lastName>
+    <streetName>Elizabeth str 9</streetName>
+    <houseNumber>444</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>214</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>8</customerID>
+    <firstName>Hans</firstName>
+    <lastName>Spitzer</lastName>
+    <streetName>bismarck 10</streetName>
+    <houseNumber>56</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>7</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>9</customerID>
+    <firstName>Lisa</firstName>
+    <lastName>Brandner</lastName>
+    <streetName>ottostr 8</streetName>
+    <houseNumber>976</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>2</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>10</customerID>
+    <firstName>Johann</firstName>
+    <lastName>Kerner</lastName>
+    <streetName>mullerstr 33</streetName>
+    <houseNumber>11</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>12</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>11</customerID>
+    <firstName>Johanna</firstName>
+    <lastName>Schmidt</lastName>
+    <streetName>hauptstrs 6</streetName>
+    <houseNumber>2</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>4</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>12</customerID>
+    <firstName>Jack</firstName>
+    <lastName>Hiddel</lastName>
+    <streetName>Elizabeth str 9</streetName>
+    <houseNumber>3</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>None</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>13</customerID>
+    <firstName>Patricia</firstName>
+    <lastName>Mary</lastName>
+    <streetName>Maria proste</streetName>
+    <houseNumber>34</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>12</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>14</customerID>
+    <firstName>James</firstName>
+    <lastName>Smith</lastName>
+    <streetName>ottostr 8</streetName>
+    <houseNumber>23</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>None</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>15</customerID>
+    <firstName>Michael</firstName>
+    <lastName>Garcia</lastName>
+    <streetName>kaiser str 7</streetName>
+    <houseNumber>567</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>32</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>16</customerID>
+    <firstName>David</firstName>
+    <lastName>Rodriguez</lastName>
+    <streetName>bismarck 10</streetName>
+    <houseNumber>34</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>33</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>17</customerID>
+    <firstName>Maria</firstName>
+    <lastName>Hernandez</lastName>
+    <streetName>hauptstrs 6</streetName>
+    <houseNumber>567</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>None</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>18</customerID>
+    <firstName>Brian</firstName>
+    <lastName>Williams</lastName>
+    <streetName>Gemsbok</streetName>
+    <houseNumber>567</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>34</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>19</customerID>
+    <firstName>Roberto</firstName>
+    <lastName>Harris</lastName>
+    <streetName>Maria proste</streetName>
+    <houseNumber>3254</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>234</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>20</customerID>
+    <firstName>Ramon</firstName>
+    <lastName>Thomas</lastName>
+    <streetName>ottostr 8</streetName>
+    <houseNumber>576</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>12</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>21</customerID>
+    <firstName>Miles</firstName>
+    <lastName>Robinson</lastName>
+    <streetName>Maria proste</streetName>
+    <houseNumber>78</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>33</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>22</customerID>
+    <firstName>Nathaniel</firstName>
+    <lastName>Walker</lastName>
+    <streetName>Gemsbok</streetName>
+    <houseNumber>5</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>None</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>23</customerID>
+    <firstName>Ethan</firstName>
+    <lastName>Scott</lastName>
+    <streetName>hauptstrs 6</streetName>
+    <houseNumber>658</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>234</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>24</customerID>
+    <firstName>Tracey</firstName>
+    <lastName>Nelson</lastName>
+    <streetName>ottostr 8</streetName>
+    <houseNumber>56</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>12</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>25</customerID>
+    <firstName>Vicky</firstName>
+    <lastName>Mitchell</lastName>
+    <streetName>Elizabeth str 9</streetName>
+    <houseNumber>34</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>22</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>26</customerID>
+    <firstName>Molly</firstName>
+    <lastName>Morgan</lastName>
+    <streetName>kaiser str 7</streetName>
+    <houseNumber>546</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>23</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>27</customerID>
+    <firstName>Miranda</firstName>
+    <lastName>Miller</lastName>
+    <streetName>Maria proste</streetName>
+    <houseNumber>87</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>45</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>28</customerID>
+    <firstName>Stephanie</firstName>
+    <lastName>Martin</lastName>
+    <streetName>Elizabeth str 9</streetName>
+    <houseNumber>867</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>3</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>29</customerID>
+    <firstName>Rose</firstName>
+    <lastName>Smith</lastName>
+    <streetName>bismarck 10</streetName>
+    <houseNumber>546</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>None</amountDue>
+  </Customer>
+  <Customer>
+    <customerID>30</customerID>
+    <firstName>Lilly</firstName>
+    <lastName>Anderson</lastName>
+    <streetName>Maria proste</streetName>
+    <houseNumber>24</houseNumber>
+    <pincode>69123</pincode>
+    <city>Heidelberg</city>
+    <phone>+49 17543352511</phone>
+    <amountDue>23</amountDue>
+  </Customer>
+</ArrayOfCustomer>

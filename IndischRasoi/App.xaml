@@ -1,0 +1,11 @@
+﻿<Application x:Class="IndischRasoi.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:IndischRasoi"
+             Startup="Application_Startup"
+             Exit="Application_Exit"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <local:TextBlockVisibility x:Key="txtVisible"/>
+    </Application.Resources>
+</Application>
